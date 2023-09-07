@@ -1,0 +1,29 @@
+:root {
+  --font-primary: "Lovelo-LineLight";
+  --color-base: #0B2436;
+  --color-gray: #616161;
+  
+
+}
+
+
+@font-face {
+  font-family: "Lovelo-LineLight";
+  src: url("../public/font/Lovelo-LineLight.woff2") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Noto Sans JP";
+  src: url("../public/font/NotoSerifJP-Medium.woff2") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Klee One";
+  src: url("../public/font/KleeOne-Regular.woff2") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
